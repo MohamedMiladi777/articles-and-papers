@@ -1,3 +1,4 @@
+# Articles
 
 * [On AI Slop vs OSS Security](https://devansh.bearblog.dev/ai-slop/)
 
@@ -20,6 +21,14 @@
 * [AI won't take out jobs, but it could take out brains.](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
 
 * [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
+
+# Papers
+
+* [Attention Is All You Need
+](https://arxiv.org/abs/1706.03762)
+
+This paper is important to understand if you are interested in machine learning. This is what GPT and modern LLMs are founded upon. Here are some resources I found helpful to understand the paper:
+    https://harbisingh.wordpress.com/2025/08/12/review-of-attention-is-all-you-need-vaswani-et-al-2017/
 
 
 **NB: I do not agree with everything these articles have to say. I might share some thoughts and opinions with some of these writers, but not absolutely everything.**
