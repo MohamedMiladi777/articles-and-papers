@@ -7,3 +7,4 @@
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 	* Event loops beautifully explained.
 
+* [JavaScript in Plain English](https://javascript.plainenglish.io/)
