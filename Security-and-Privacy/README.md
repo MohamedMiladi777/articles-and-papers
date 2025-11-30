@@ -2,4 +2,4 @@
 
 * [The Limits of End-to-End Encryption](https://sanesecurityguy.com/articles/the-limits-of-end-to-end-encryption/#end-to-end-apps)
 
-* [What Is Sandboxing?](https://www.fortinet.com/resources/cyberglossary/what-is-sandboxing)
+
