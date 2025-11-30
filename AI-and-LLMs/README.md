@@ -27,12 +27,12 @@
 
 # Papers
 
-* [Attention Is All You Need
-](https://arxiv.org/abs/1706.03762)
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-This paper is important to understand if you are interested in machine learning. This is what GPT and modern LLMs are founded upon. Here are some resources I found helpful to understand the paper:
-    https://harbisingh.wordpress.com/2025/08/12/review-of-attention-is-all-you-need-vaswani-et-al-2017/
+	* This paper is important to understand if you are interested in machine learning. This is what GPT and modern LLMs are founded upon. Here are some resources I found helpful to understand the paper: https://harbisingh.wordpress.com/2025/08/12/review-of-attention-is-all-you-need-vaswani-et-al-2017/
 
+* [New Kid in the Classroom: Exploring Student Perceptions of AI Coding Assistants](https://arxiv.org/pdf/2507.22900)
+	* This paper is a must-read. I have skimmed through it, but haven't fully read it.
 
 **NB: I do not agree with everything these articles have to say. I might share some thoughts and opinions with some of these writers, but not absolutely everything.**
 
