@@ -12,3 +12,5 @@
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 * [Interactive Git Learning Material](https://learngitbranching.js.org/)
+
+* [Algorithms for Optimization](https://algorithmsbook.com/optimization/files/optimization.pdf)
