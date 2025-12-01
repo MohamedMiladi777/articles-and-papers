@@ -6,4 +6,6 @@
 
 * [What Is Sandboxing?](https://www.fortinet.com/resources/cyberglossary/what-is-sandboxing)
 
+* [Working with evals](https://platform.openai.com/docs/guides/evals?api-mode=responses)
+
 ### This folder contains articles, papers and books that appear interesting but haven't read.
