@@ -17,3 +17,5 @@
 
 * [Basic bisection to find a bug with Git](https://www.youtube.com/watch?v=X_pQfoaRuhA)
 	* This is an important aspect to grasp for bug finding.
+
+* [The Advent of Compiler Optimisations](https://xania.org/)
