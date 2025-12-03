@@ -8,6 +8,10 @@
 
 * [Working with evals](https://platform.openai.com/docs/guides/evals?api-mode=responses)
 
+* [An important read about schemas.](https://json-schema.org/understanding-json-schema/about#object)
+
+* [Introducing text and code embeddings](https://openai.com/index/introducing-text-and-code-embeddings/)
+
 # Papers
 * [Non-Determinism of “Deterministic” LLM Settings](https://arxiv.org/html/2408.04667v5)
 
