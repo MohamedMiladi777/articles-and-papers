@@ -8,4 +8,8 @@
 
 * [Working with evals](https://platform.openai.com/docs/guides/evals?api-mode=responses)
 
+# Papers
+* [Non-Determinism of “Deterministic” LLM Settings](https://arxiv.org/html/2408.04667v5)
+
+
 ### This folder contains articles, papers and books that appear interesting but haven't read.
