@@ -19,3 +19,6 @@
 	* This is an important aspect to grasp for bug finding.
 
 * [The Advent of Compiler Optimisations](https://xania.org/)
+
+* [Data Structures](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf)
+	* This is a must read.
