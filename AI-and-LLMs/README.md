@@ -26,6 +26,8 @@
 
 * [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6)
 
+* [RAG & Semantic Search](https://help.openai.com/en/articles/8868588-retrieval-augmented-generation-rag-and-semantic-search-for-gpts)
+
 # Papers
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
