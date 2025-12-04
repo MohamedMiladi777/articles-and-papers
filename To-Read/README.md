@@ -14,7 +14,12 @@
 
 * [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 
+* [Introducing text and code embeddings](https://openai.com/index/introducing-text-and-code-embeddings/)
+
+	* This one is important.
+
 # Papers
+
 * [Non-Determinism of “Deterministic” LLM Settings](https://arxiv.org/html/2408.04667v5)
 
 
