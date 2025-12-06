@@ -18,6 +18,8 @@
 
 	* This one is important.
 
+* [Eval-Driven Dev.](https://vercel.com/blog/eval-driven-development-build-better-ai-faster)
+
 # Papers
 
 * [Non-Determinism of “Deterministic” LLM Settings](https://arxiv.org/html/2408.04667v5)
