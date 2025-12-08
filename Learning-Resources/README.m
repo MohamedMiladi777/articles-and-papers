@@ -24,3 +24,5 @@
 	* This is a must read.
 
 * [Modern CSS Fundamentals](https://css-fundamentals.kevinpowell.co/)
+
+* [Shell commands Learning Resource](https://oops.cmdchallenge.com/#/oops_list_files)
