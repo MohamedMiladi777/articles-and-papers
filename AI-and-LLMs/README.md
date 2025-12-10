@@ -28,6 +28,7 @@
 
 * [RAG & Semantic Search](https://help.openai.com/en/articles/8868588-retrieval-augmented-generation-rag-and-semantic-search-for-gpts)
 
+* [Prisoner's Dilemma](https://anandsanwal.me/ai-education-death-spiral/)
 # Papers
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
