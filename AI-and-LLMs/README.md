@@ -40,6 +40,8 @@
 
 * [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
 
+* [Don't Become the Machine](https://blog.armeet.ca/becoming-the-machine/)
+
 **NB: I do not agree with everything these articles have to say. I might share some thoughts and opinions with some of these writers, but not absolutely everything.**
 
 **NB2: I am not a luddite.. I beleive tech evolved, is evolving and will evolve throughout the years. AI is an interesting technology and certainly use it as resposnable as I could. However, one shall look at things from different angles and try to make the most optimal decision.**
