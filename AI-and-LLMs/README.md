@@ -29,6 +29,16 @@
 * [RAG & Semantic Search](https://help.openai.com/en/articles/8868588-retrieval-augmented-generation-rag-and-semantic-search-for-gpts)
 
 * [Prisoner's Dilemma](https://anandsanwal.me/ai-education-death-spiral/)
+
+* [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/new-technology-2026)
+	* But as inexperienced coders started turning up in greater numbers,
+	  it also started to poison the training data.
+	  AI coding assistants that found ways to get their code accepted by
+	  users kept doing more of that, even if “that” meant turning off
+	  safety checks and generating plausible but useless data.
+	  As long as a suggestion was taken on board, it was viewed as good,
+	  and downstream pain would be unlikely to be traced back to the source.
+
 # Papers
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
