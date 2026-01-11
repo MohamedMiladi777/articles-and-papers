@@ -3,3 +3,5 @@
 * [A Set of Data Structures Books](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/Learning-JavaScript-Data-Structures-and-Algorithms-Second-Edition.pdf)
 
 * [JavaScript modules](https://v8.dev/features/modules)
+
+* [The Typescript Book](https://github.com/gibbok/typescript-book?tab=readme-ov-file#typescript-introduction)
