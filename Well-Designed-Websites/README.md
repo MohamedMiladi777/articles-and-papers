@@ -5,3 +5,5 @@
 * [Browser Base](https://www.browserbase.com/)
 
 * [Nicchan](https://www.nicchan.me/)
+
+* [Dithering](https://visualrambling.space/dithering-part-1/)
