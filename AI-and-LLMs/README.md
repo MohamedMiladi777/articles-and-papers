@@ -39,6 +39,9 @@
 	  As long as a suggestion was taken on board, it was viewed as good,
 	  and downstream pain would be unlikely to be traced back to the source.
 
+
+* [AI Doesn’t Reduce Work—It Intensifies It]()
+
 # Papers
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
