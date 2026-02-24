@@ -42,6 +42,8 @@
 
 * [AI Doesn’t Reduce Work—It Intensifies It]()
 
+* [Pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)
+	* An interesting CLI agent.
 # Papers
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
