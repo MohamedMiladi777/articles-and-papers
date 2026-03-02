@@ -44,6 +44,8 @@
 
 * [Pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)
 	* An interesting CLI agent.
+* [AI Made Writing Code Easier. It Made Being an Engineer Harder.](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+
 # Papers
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
